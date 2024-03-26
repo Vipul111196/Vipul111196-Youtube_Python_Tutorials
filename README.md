@@ -23,7 +23,7 @@ The objective of this repository is simple yet profound: to provide a space for 
 
 4. **Explore Practice Exercises**: Within the repository, you'll find a collection of Python practice exercises organized into directories based on their topics. Start with the basics, read the theory first and gradually progress to more advanced concepts.
 - Python Basics
-- Variable
+- Strings
 - List
 - Tuple
 

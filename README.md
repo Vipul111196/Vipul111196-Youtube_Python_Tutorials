@@ -16,12 +16,12 @@ The objective of this repository is simple yet profound: to provide a space for 
 
 1. **Clone the Repository**: Begin by cloning this repository to your local machine using the following command:
 
-'''git clone https://github.com/Vipul111196/Youtube_Python_Tutorials_Basic_to_Advance.git'''
+```git clone https://github.com/Vipul111196/Youtube_Python_Tutorials_Basic_to_Advance.git```
 
 2. **Navigate to the Directory**: Move into the cloned repository directory:
-'''cd Youtube_Python_Tutorials_Basic_to_Advance'''
+  ``` cd Youtube_Python_Tutorials_Basic_to_Advance```
 
-3. **Explore Practice Exercises**: Within the repository, you'll find a collection of Python practice exercises organized into directories based on their topics. Start with the basics, read the theory first and gradually progress to more advanced concepts.
+4. **Explore Practice Exercises**: Within the repository, you'll find a collection of Python practice exercises organized into directories based on their topics. Start with the basics, read the theory first and gradually progress to more advanced concepts.
 - Python Basics
 - Variable
 - List

@@ -22,10 +22,16 @@ The objective of this repository is simple yet profound: to provide a space for 
   ``` cd Youtube_Python_Tutorials_Basic_to_Advance```
 
 4. **Explore Practice Exercises**: Within the repository, you'll find a collection of Python practice exercises organized into directories based on their topics. Start with the basics, read the theory first and gradually progress to more advanced concepts.
-- Python Basics
+- Python Basics (Variables, Datatypes, Loops, Conditional Statement, etc)
 - Strings
 - List
 - Tuple
+- Dictionary
+- Logging
+- Exception handling
+- Object Oriented Programming
+- Python Projects
+- and much more
 
 ### Contributing
 

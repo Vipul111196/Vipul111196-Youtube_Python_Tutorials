@@ -26,6 +26,8 @@ The objective of this repository is simple yet profound: to provide a space for 
 - Strings
 - List
 - Tuple
+- Dictionary
+- Object Oriented Programming OOPS
 
 ### Contributing
 
